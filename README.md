@@ -16,11 +16,14 @@ A mesh independence study was performed to ensure the accuracy of numerical resu
 
 ## Results
 
+### Pressure Contour
+![Pressure](images/pressure_contour.png)
+A noticeable pressure drop is observed at the throat region, in agreement with Bernoulli equation.
+
 ### Velocity Contour
 ![Velocity](images/velocity_contour.png)
 
-### Pressure Contour
-![Pressure](images/pressure_contour.png)
+
 
 ### Reynolds Number Contour
 ![Reynolds](images/reynolds_number_contour.png)
